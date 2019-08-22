@@ -1,8 +1,8 @@
-# DEMO — super-event-emitter
+# DEMO — complete-string
 
 ```bash
 # Instalacja
-npm i super-event-emitter@4.1.10
+npm i complete-string@2.1.2
 # Kompilacja
 npm start
 # Error!
@@ -12,8 +12,8 @@ npm start
 
 ```bash
 # Instalacja
-npm i super-event-emitter@4.1.12
+npm i complete-string@2.2.2
 # Kompilacja
 npm start
-# Works!
+# Error!
 ```

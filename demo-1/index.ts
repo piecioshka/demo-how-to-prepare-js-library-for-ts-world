@@ -14,8 +14,12 @@ class CartService extends EventEmitter {
 
 }
 
-const s = new CartService();
-s.on('new-product', (payload) => console.log({ payload }));
+function main() {
+    const s = new CartService();
+    s.on('new-product', (payload) => console.log({ payload }));
 
-const car: Product = { name: 'Ferrari', price: 23 };
-s.addProduct(car);
+    const car: Product = { name: 'Ferrari', price: 23 };
+    s.addProduct(car);
+}
+
+main();

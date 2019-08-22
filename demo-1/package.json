@@ -1,0 +1,20 @@
+{
+    "name": "demo-1",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "start": "ts-node --require jsdom-global/register index.ts"
+    },
+    "keywords": [],
+    "author": "Piotr Kowalski <piecioshka@gmail.com> (https://piecioshka.pl)",
+    "license": "MIT",
+    "dependencies": {
+        "super-event-emitter": "4.1.10"
+    },
+    "devDependencies": {
+        "jsdom": "^15.1.1",
+        "jsdom-global": "^3.0.2",
+        "ts-node": "^8.3.0",
+        "typescript": "^3.5.3"
+    }
+}

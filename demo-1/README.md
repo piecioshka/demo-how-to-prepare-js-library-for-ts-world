@@ -1,9 +1,7 @@
-# DEMO — super-event-emitter
+# DEMO — niepoprawne zdefiniowanie `Type Definitions`
 
 ```bash
-# Instalacja
 npm i super-event-emitter@4.1.10
-# Kompilacja
 npm start
 # Error!
 ```
@@ -11,9 +9,7 @@ npm start
 ---
 
 ```bash
-# Instalacja
 npm i super-event-emitter@4.1.12
-# Kompilacja
 npm start
 # Works!
 ```

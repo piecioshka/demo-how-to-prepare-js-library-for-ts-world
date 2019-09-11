@@ -1,0 +1,19 @@
+{
+    "name": "demo-3",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "ts-node index.ts"
+    },
+    "keywords": [],
+    "author": "Piotr Kowalski <piecioshka@gmail.com> (https://piecioshka.pl)",
+    "license": "MIT",
+    "dependencies": {
+        "@types/lodash": "^4.14.138",
+        "lodash": "^4.17.15"
+    },
+    "devDependencies": {
+        "ts-node": "^8.3.0",
+        "typescript": "^3.5.3"
+    }
+}

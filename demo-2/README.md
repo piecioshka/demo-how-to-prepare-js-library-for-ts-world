@@ -3,5 +3,5 @@
 ```bash
 npm i
 npm run build
-# Works!
+# [+] Works
 ```

@@ -9,11 +9,11 @@
     "author": "Piotr Kowalski <piecioshka@gmail.com> (https://piecioshka.pl)",
     "license": "MIT",
     "dependencies": {
-        "@types/lodash": "^4.14.138",
-        "lodash": "^4.17.15"
+        "@types/lodash": "^4.14.168",
+        "lodash": "^4.17.21"
     },
     "devDependencies": {
-        "ts-node": "^8.3.0",
-        "typescript": "^3.5.3"
+        "ts-node": "^8.10.2",
+        "typescript": "^3.9.9"
     }
 }
